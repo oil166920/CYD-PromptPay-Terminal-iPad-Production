@@ -1,0 +1,1 @@
+{"name":"cyd-promptpay-terminal-ipad","private":true,"version":"2.0.0","description":"PromptPay Terminal web edition for iPad + Vercel + Stripe","type":"module","scripts":{"dev":"vercel dev"},"engines":{"node":"24.x"}}
